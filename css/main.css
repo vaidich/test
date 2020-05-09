@@ -1,0 +1,11 @@
+header {background-image: url("../img/1.jpg")}
+footer {background-image: url("../img/2.jpg")}
+section {padding: 200px 0}
+.red {color: #b40707}
+.bg {
+	height: 100vh;
+	background-color: #232323;
+	background-size: cover;
+	background-attachment: fixed;
+	background-blend-mode: overlay, color;
+}
